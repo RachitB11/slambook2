@@ -1,7 +1,5 @@
-//这是一个库文件
+// Script to be imported
 #include <iostream>
 using namespace std;
 
-void printHello() {
-  cout << "Hello SLAM" << endl;
-}
+void printHello() { cout << "Hello SLAM" << endl; }
